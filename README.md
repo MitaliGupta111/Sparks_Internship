@@ -1,2 +1,2 @@
-# ideal-fortnight
+# Web_PGI
 Payment Gateway Integration Website
